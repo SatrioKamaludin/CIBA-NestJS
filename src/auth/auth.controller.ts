@@ -43,3 +43,5 @@ export class ResourceController {
         return { message: 'Access granted' };
     }
 }
+
+
